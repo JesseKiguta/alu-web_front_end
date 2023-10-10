@@ -1,1 +1,1 @@
-This is about responsive design with HTML and CSS.
+Front End repository
